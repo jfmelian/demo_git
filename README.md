@@ -5,4 +5,4 @@ une demo git qui se passe bien
 
 et maintenant une modif depuis github
 
-et depuis ma becane locale
+et depuis ma becane locale et c'est cool
